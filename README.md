@@ -27,23 +27,22 @@ A collection of **13 specialized AI skills** for Ruby on Rails development. Each
 
 ### Installation
 
-**Global installation (recommended):**
+**Claude Code (Recommended):**
 ```bash
-git clone https://github.com/alec-c4/claude-skills-rails-dev.git ~/.claude/skills
+git clone https://github.com/alec-c4/claude-skills-rails-dev.git ~/.claude/skills/rails-dev
 ```
 
-**Project-specific installation:**
+**Claude Desktop:**
 ```bash
-git clone https://github.com/alec-c4/claude-skills-rails-dev.git /path/to/your-project/.claude/skills
+git clone https://github.com/alec-c4/claude-skills-rails-dev.git ~/.claude/skills/rails-dev
 ```
+
+**Claude Web:**
+See [INSTALLATION.md](INSTALLATION.md) for manual setup options.
+
+**📖 Full installation guide:** [INSTALLATION.md](INSTALLATION.md) (includes project-specific installation, updates, troubleshooting)
 
 **Start using** - Claude will automatically activate skills based on your requests!
-
-**Update skills:**
-```bash
-cd ~/.claude/skills
-git pull origin master
-```
 
 ### Usage
 
